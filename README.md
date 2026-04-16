@@ -70,3 +70,7 @@ La skill responde siempre en **castellano**, en **primera persona**, con humor s
 ## La rúbrica
 
 El corazón de la skill es la rúbrica completa dentro de `SKILL.md`: categorías, síndromes, reglas duras, criterios por sección, y el principio central detrás de todo — *¿se nota que alguien decidió esto, o parece que vino por default?*
+
+## Licencia
+
+MIT — ver [LICENSE](LICENSE).
